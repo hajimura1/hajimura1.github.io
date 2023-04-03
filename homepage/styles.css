@@ -1,0 +1,93 @@
+.background {
+    background-image: url("pizzapizza.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cover {
+    text-align: center;
+    font-family: Georgia;
+    color: orange;
+    margin-top: 20%;
+    filter: brightness(1.1)
+}
+
+.essaypage {
+  background-color: lightgrey;
+}
+
+.essay {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.locationpage {
+  background-color: lightgrey;
+}
+
+.location {
+  text-align: center;
+  font-family: Georgia;
+  margin-top: 4%;
+}
+
+.map {
+  margin-top: 100px:
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+  width: 83%;
+  Height: 600px;
+}
+
+.menupage {
+  background-color: lightgrey;
+}
+
+#RegularPie {
+  width: 350px;
+  height: 350px;
+}
+
+#SicilianPie {
+  width: 350px;
+  height: 350px;
+}
+
+#Meatpie {
+  width: 350px;
+  height: 350px;
+}
+
+#Greenspie {
+  width: 350px;
+  height: 350px;
+}
+
+#PeppersPie {
+  width: 350px;
+  height: 350px;
+}
+
+#ChickenRoll {
+  width: 350px;
+  height: 350px;
+}
+
+#ChickenWings {
+  width: 350px;
+  height: 350px;
+}
+
+#GarlicKnots {
+  width: 350px;
+  height: 350px;
+}
+
+#MozzarellaStick {
+  width: 350px;
+  height: 350px;
+}
